@@ -3,6 +3,11 @@
     "short_name": "Sohbat-e-islam",
     "icons": [
         {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJX_wtvFfFMPvXvu9JXSe2Z2EJfpHFbnjBzHATAaUBrlnYhUkxVw6bHpEJojxgVcM0zOBk3kLM1PNX5mFI28oVHavF7IaNizF4Jh-_ED16F5doSTUEY1SNbfjb34jchB1mYLG8CcXrDTM4htVELb2nrkSfWwA6AKj2XRCvP8uBXVraVU78YJNCXQqIAw/s1600/android-icon-128x128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
             "src": "https://blogger.googleusercontent.com/img/a/AVvXsEh9M8SLabtzHathJc4-T3Ez8WRwyzs1EW_x0z8husxDjucLvfQdfXnP8G3rtmB7DE13_L7vJuUGr8oNXCAtQzmYIShd3gk_ED9rix2yNCOOHo5QTbuJkTU_MrOU4T5QWDZKT6x0iVFEst6TR4yRLp1gAe8ytYXfFlDHop1FZc50YqX6jdatQWXVPPL_5g=s16000",
             "sizes": "192x192",
             "type": "image/png",
