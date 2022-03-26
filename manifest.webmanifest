@@ -3,18 +3,13 @@
     "short_name": "Sohbat-e-islam",
     "icons": [
         {
-            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJX_wtvFfFMPvXvu9JXSe2Z2EJfpHFbnjBzHATAaUBrlnYhUkxVw6bHpEJojxgVcM0zOBk3kLM1PNX5mFI28oVHavF7IaNizF4Jh-_ED16F5doSTUEY1SNbfjb34jchB1mYLG8CcXrDTM4htVELb2nrkSfWwA6AKj2XRCvP8uBXVraVU78YJNCXQqIAw/s1600/android-icon-128x128.png",
-            "type": "image/png",
-            "sizes": "128x128"
-        },
-        {
-            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEh9M8SLabtzHathJc4-T3Ez8WRwyzs1EW_x0z8husxDjucLvfQdfXnP8G3rtmB7DE13_L7vJuUGr8oNXCAtQzmYIShd3gk_ED9rix2yNCOOHo5QTbuJkTU_MrOU4T5QWDZKT6x0iVFEst6TR4yRLp1gAe8ytYXfFlDHop1FZc50YqX6jdatQWXVPPL_5g=s16000",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObGdmxxIcqD7IMaYOXXcNi-eJqNGzVJDzatLBxYOS9ttXRCE1O0qZHYckpaLlxph_FBeFgpZwcSjjSNXut-1D7B0bpvsE3SSFbYxIOwFMeajlQn4u6CjWqVm-4hoU18cO1I8-4hwhjC88WwCo7lF582EXspFcXh_aJj0Q92A0-B_vzJ7Y3WCCbynRRQ/s1600/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgue-of3n6x0-TBl2nmIWxiyxOjqLYguKAR2iXPJu33lTbcCwuGxsBk8Ww-pMacgRCCx6fgdMaAiOhsm-khfMW4VvhkDBJyMOU5DNlIhVtWe5eyy6W49UEq-i38_jtYGSyresLHQxMdKL3RxuOWLqhYRnHd8uuzbyl86P2al9rqV_XDiTsWaBQcgb-mLw=s16000",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCp7S9Smz4wzKxc2xYT5npAYaYUV0dxkS9DRGwMiOYt6dePaanh-XWGYDfDjXIViKaXjDC0I1RhdvFVvwO2SoTx3ZIZQkC7kTaJs_p1YiH4wCrehs16H4V0UhosaGInmPiO1dS_wGZXiJ32Tazsa9CjC93gyNYOYUR6XSdXt8nrtb2V7xub2kl3tU-8g/s16000/android-icon-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"
